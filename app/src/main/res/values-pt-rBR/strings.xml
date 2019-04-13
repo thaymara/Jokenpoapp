@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_last_play">Última Jogada</string>
+    <string name="label_you">Você</string>
+    <string name="label_choose">"Escolha seu "</string>
+    <string name="label_rock">Pedra</string>
+    <string name="label_paper">Papel</string>
+    <string name="label_scissors">Tesoura</string>
+</resources>

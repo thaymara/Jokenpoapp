@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">Jokenpoapp</string>
+    <string name="label_last_play">Last Play</string>
+    <string name="label_you">You</string>
+    <string name="label_android" translatable="false">Android</string>
+    <string name="label_choose">Choose your move!</string>
+    <string name="label_rock">Rock</string>
+    <string name="label_paper">Paper</string>
+    <string name="label_scissors">Scissors</string>
+</resources>
